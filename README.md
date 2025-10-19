@@ -1,8 +1,5 @@
 # Alex Chen
 
-**Computer Science @ University of Tennessee, Knoxville**  
-_Software Engineer_
-
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexchen1337&theme=tokyonight&hide_border=false&langs_count=5)
