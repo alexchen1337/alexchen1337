@@ -1,7 +1,3 @@
-# Alex Chen
-
----
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexchen1337&theme=tokyonight&hide_border=false&langs_count=5)
 
 ---
